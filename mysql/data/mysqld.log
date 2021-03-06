@@ -1,0 +1,40 @@
+2021-01-21T18:54:07.508251Z 0 [System] [MY-013169] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe (mysqld 8.0.22) initializing of server in progress as process 2064
+2021-01-21T18:54:07.530604Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-01-21T18:54:09.096364Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-01-21T18:54:10.925085Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --binlog-expire-logs-seconds work.
+2021-01-21T18:54:11.206890Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-01-21T18:54:15.240242Z 0 [System] [MY-010116] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 2516
+2021-01-21T18:54:15.257465Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-01-21T18:54:15.869430Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-01-21T18:54:16.311613Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-21T18:54:16.555376Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-21T18:54:16.556627Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-01-21T18:54:16.607357Z 0 [System] [MY-010931] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-01-21T18:54:59.379617Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.22).
+2021-01-21T18:54:59.382257Z 0 [System] [MY-013105] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Normal shutdown.
+2021-01-21T18:54:59.898498Z 0 [System] [MY-010910] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2021-01-21T18:55:43.812841Z 0 [System] [MY-010116] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 13772
+2021-01-21T18:55:43.842720Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-01-21T18:55:44.509083Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-01-21T18:55:44.872678Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-01-21T18:55:44.979774Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-01-21T18:55:44.982037Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-01-21T18:55:45.189691Z 0 [System] [MY-010931] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-02-02T13:54:52.287584Z 0 [System] [MY-013105] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Normal shutdown.
+2021-02-02T13:54:53.525968Z 0 [System] [MY-010910] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2021-02-02T13:55:37.047629Z 0 [System] [MY-010116] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 6448
+2021-02-02T13:55:37.448787Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-02T13:55:42.075217Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-02T13:55:43.316113Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-02T13:55:44.429380Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-02T13:55:44.430893Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-02-02T13:55:44.601436Z 0 [System] [MY-010931] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2021-02-08T13:11:34.999432Z 0 [System] [MY-013105] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Normal shutdown.
+2021-02-08T13:11:36.308197Z 0 [System] [MY-010910] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2021-02-08T13:12:24.324608Z 0 [System] [MY-010116] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 10360
+2021-02-08T13:12:24.390789Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-08T13:12:25.093162Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-08T13:12:25.336565Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-08T13:12:25.471863Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-08T13:12:25.473772Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-02-08T13:12:25.636190Z 0 [System] [MY-010931] [Server] C:\Bitnami\wordpress-5.6-2\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3306  MySQL Community Server - GPL.
